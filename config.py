@@ -20,4 +20,4 @@ REDDIT_USER_AGENT = 'YOUR_REDDIT_USER_AGENT'
 SUBREDDIT_NAME = 'YOUR_SUBREDDIT_NAME'
 
 # TikTok configuration
-# If you're using web scraping, you might not need configuration here
+TIKTOK_USERNAME = 'YOUR_TIKTOK_USERNAME'
